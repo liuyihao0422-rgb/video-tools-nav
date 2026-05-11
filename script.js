@@ -161,7 +161,7 @@ const toolsData = [
         badge: "popular",
         featured: true,
         isNew: false,
-        link: "https://y2mate.com"
+        link: "https://snapsave.app"
     },
     {
         id: 12,
@@ -217,7 +217,7 @@ const toolsData = [
         badge: "free",
         featured: false,
         isNew: false,
-        link: "https://igram.io"
+        link: "https://sssstiktok.io"
     },
 
     // EDIT Tools
