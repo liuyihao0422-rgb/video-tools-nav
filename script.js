@@ -17,7 +17,7 @@ const toolsData = [
         badge: "popular",
         featured: true,
         isNew: false,
-        link: "https://cloudinary.com/tools/video-compress"
+        link: "https://www.kapwing.com/video-compressor"
     },
     {
         id: 2,
@@ -45,7 +45,7 @@ const toolsData = [
         badge: "freemium",
         featured: false,
         isNew: false,
-        link: "https://www.kapwing.com/resources/compress-video-file/"
+        link: "https://www.kapwing.com/video-compressor"
     },
     {
         id: 4,
@@ -59,7 +59,7 @@ const toolsData = [
         badge: "free",
         featured: false,
         isNew: false,
-        link: "https://ezgif.com-optimize"
+        link: "https://ezgif.com/compress"
     },
     {
         id: 5,
@@ -117,7 +117,7 @@ const toolsData = [
         badge: "freemium",
         featured: false,
         isNew: false,
-        link: "https://www.zamzar.com/converter/video/"
+        link: "https://www.zamzar.com/"
     },
     {
         id: 9,
@@ -131,7 +131,7 @@ const toolsData = [
         badge: "free",
         featured: false,
         isNew: false,
-        link: "https://www.online-convert.com/video-converter"
+        link: "https://www.freeconvert.com/video-compressor"
     },
     {
         id: 10,
@@ -161,7 +161,7 @@ const toolsData = [
         badge: "popular",
         featured: true,
         isNew: false,
-        link: "https://ytmp5x.com"
+        link: "https://y2mate.com"
     },
     {
         id: 12,
@@ -217,7 +217,7 @@ const toolsData = [
         badge: "free",
         featured: false,
         isNew: false,
-        link: "https://instavideosave.net"
+        link: "https://igram.io"
     },
 
     // EDIT Tools
@@ -305,7 +305,7 @@ const toolsData = [
         badge: "freemium",
         featured: false,
         isNew: false,
-        link: "https://www.kapwing.com/resources/how-to-extract-audio-from-video-in-kapwing/"
+        link: "https://www.kapwing.com/audio-extractor"
     },
     {
         id: 22,
@@ -319,7 +319,7 @@ const toolsData = [
         badge: "free",
         featured: false,
         isNew: false,
-        link: "https://www.veed.io/tools/audio-extractor"
+        link: "https://www.veed.io/audio-extractor"
     },
     {
         id: 23,
